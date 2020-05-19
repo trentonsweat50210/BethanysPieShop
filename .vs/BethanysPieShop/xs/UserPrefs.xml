@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{960B5CCD-CDB5-485B-9C9B-297136F2D7ED}|Default">
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShop FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Startup.cs">
+    <Files>
+      <File FileName="BethanysPieShop/BethanysPieShop.csproj" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Program.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
